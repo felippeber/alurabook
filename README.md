@@ -8,7 +8,7 @@
 
 <h2>Descrição do Projeto</h2>
 
-Um site responsivo feito com HTML e CSS, onde foi trabalhado a exposição e o tamanho das imagens e da tela do aparelho que a pessoa está utilizando.
+Um site responsivo, onde foi trabalhada a exposição e o tamanho das imagens conforme o tamanho de tela do aparelho que a pessoa está utilizando.
 
 # 📁 Acesso ao projeto
 
